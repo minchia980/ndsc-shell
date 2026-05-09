@@ -1,2 +1,2 @@
 # ndsc-shell
-Non dite ste cose :\
+well nothing to see here
