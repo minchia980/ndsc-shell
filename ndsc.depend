@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1778354890 source:c:\users\pizzawizard32\desktop\more files idk man\minchia980\ndsc\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<windows.h>
+
