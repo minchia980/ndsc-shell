@@ -1,8 +1,8 @@
 # ndsc-shell
-An amazing shell that lets you control Windows system files faster and easily.
+cool shell that lets  you do cool things on system files
 
 ## How to use?
-Note: We don't have changing directory command support, but we might have it sooner. For now, you need to write the complete file tree (e.g. "C:\Users\user\Documents\file.txt" instead of "file.txt")
+note: We don't have changing directory command support, but we might have it sooner. For now, you need to write the complete file tree (e.g. "C:\Users\user\Documents\file.txt" instead of "file.txt")
 
 ### Commands
 **del [file]**
