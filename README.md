@@ -1,4 +1,4 @@
-# ndsc-shell
+# minchia980/ndsc-shell
 cool shell that lets  you do cool things on system files
 
 ## How to use?
