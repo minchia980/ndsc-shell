@@ -1,0 +1,10 @@
+commands:
+* getperms : Get full ownership and permissions to edit files
+* del: Deletes a file (the program will use getperms automatically)
+* rmdir: Deletes a folder (the program will use get perms automatically)
+* rdi: comes back to C:\
+* ver: shows a txt file with the current version and the update list
+
+note: directories are still not fully supported yet so you might find a lot of bugs with them
+
+credit goes to moloko (and pizzawizard32 but just a little bit) for writing the instructions

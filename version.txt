@@ -1,0 +1,6 @@
+minchia980/ndsc 1.0.0-beta.1
+
+changelog:
+- added ver command to show the current version and a changelog in a text file (version.txt)
+- added instructions command, but instructions are not done yet
+- added partial support for directories
